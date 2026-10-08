@@ -61,4 +61,4 @@ The project demonstrates the use of:
 
 ## Files
 
-- `EDA.sql` — SQL queries used for the exploratory data analysis.
+- `EDAproject.sql` — SQL queries used for the exploratory data analysis.
