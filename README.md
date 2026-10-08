@@ -1,7 +1,8 @@
 # Data Analyst Bootcamp 2026
 
 A collection of data analytics projects completed during the
-Data Analyst Bootcamp 2026.
+Data Analyst Bootcamp 2026 by Alex Freberg.
+https://youtu.be/cnjhHZNJEDk?si=32hAm8eEGHMM7mwf
 
 ## Tools & Technologies
 
